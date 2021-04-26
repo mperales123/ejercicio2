@@ -1,3 +1,0 @@
-linea 1 de fichero docu1
-linea 2 de fichero docu1
-añado una línea a docu1
