@@ -1,3 +1,8 @@
 linea en rama1
+<<<<<<< HEAD
 nueva linea en rama1 en master
 otra linea en rama1 en master
+=======
+nueva linea para rama1
+otra linea para rama1
+>>>>>>> mirama
